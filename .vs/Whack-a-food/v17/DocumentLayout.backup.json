@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\AluCiclesGS1\\APB\\No_git\\Independent_projects\\Whack-a-food\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BB60286-63C2-E6EF-CC35-1AACC4246840}|Assembly-CSharp.csproj|e:\\aluciclesgs1\\apb\\no_git\\independent_projects\\whack-a-food\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BB60286-63C2-E6EF-CC35-1AACC4246840}|Assembly-CSharp.csproj|E:\\AluCiclesGS1\\APB\\No_git\\Independent_projects\\Whack-a-food\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BB60286-63C2-E6EF-CC35-1AACC4246840}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB60286-63C2-E6EF-CC35-1AACC4246840}|Assembly-CSharp.csproj|e:\\aluciclesgs1\\apb\\no_git\\independent_projects\\whack-a-food\\assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB60286-63C2-E6EF-CC35-1AACC4246840}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "E:\\AluCiclesGS1\\APB\\No_git\\Independent_projects\\Whack-a-food\\Assets\\Scripts\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveData.cs",
+              "ToolTip": "E:\\AluCiclesGS1\\APB\\No_git\\Independent_projects\\Whack-a-food\\Assets\\Scripts\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:26:02.592Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "E:\\AluCiclesGS1\\APB\\No_git\\Independent_projects\\Whack-a-food\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T10:42:24.586Z",
               "EditorCaption": ""
