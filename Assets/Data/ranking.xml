@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Data>
+    <name>agente E​</name>
+    <score>116</score>
+  </Data>
+  <Data>
+    <name>sergi salguer​</name>
+    <score>23</score>
+  </Data>
+  <Data>
+    <name>Something​</name>
+    <score>7</score>
+  </Data>
+</ArrayOfData>
